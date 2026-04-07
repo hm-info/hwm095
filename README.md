@@ -1,2 +1,5 @@
-# hwm095
-HWM095 Manual
+# HWM095 Manual
+
+## 📖 Documentation
+
+<https://hm-info.github.io/hwm095/>
